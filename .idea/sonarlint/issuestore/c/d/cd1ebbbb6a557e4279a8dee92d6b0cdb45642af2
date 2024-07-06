@@ -1,0 +1,6 @@
+
+;kotlin:S6310:"Avoid hardcoded dispatchers.(á¥ €8Á€Ý€ˆ2
+;kotlin:S6310\"Avoid hardcoded dispatchers.(Í¡·Þ8Á€Ý€ˆ2
+skotlin:S6306:"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(á¥ €8è€Ý€ˆ2
+>kotlin:S1128"Remove this unused import.(á»¸•úÿÿÿÿ8ë€Ý€ˆ2
+{kotlin:S101"]Rename class "crear_paciente_medicamento" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(¼Ç€š8ì€Ý€ˆ2

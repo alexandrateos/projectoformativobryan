@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/mdNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:editable="false"
+        android:hint="Nombre:"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/mdApellido"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:editable="false"
+        android:hint="Apellido:"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/mdEdad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:editable="false"
+        android:hint="Edad:"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/mdEnfermedad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:editable="false"
+        android:hint="Enfermedad:"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/mdNumeroHabitacion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:editable="false"
+        android:hint="Número de Habitación:"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/mdNumeroCama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:editable="false"
+        android:hint="Número de Cama:"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/mdMedicamentos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:editable="false"
+        android:hint="Medicamentos:"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/mdHora"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:editable="false"
+        android:hint="Hora aplicacion:"
+        android:textSize="18sp" />
+
+
+    <Button
+        android:id="@+id/mdBtnVolver"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Volver"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>

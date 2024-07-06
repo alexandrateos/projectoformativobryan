@@ -1,0 +1,4 @@
+
+fkotlin:S6310"Avoid hardcoded dispatchers.(äÕ”øÿÿÿÿ8ƒ³Í©†2J$0dde7d4b-de5d-4895-9670-f808a6a54c7b
+kotlin:S6306"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(äÕ”øÿÿÿÿ8…³Í©†2J$fb824a55-2839-4119-b91f-23c684969bfb
+–kotlin:S101"RRename class "pantalladecarga" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(˜÷æÈ8†³Í©†2J$e4d9cfe0-40fa-44be-808c-8b34aa756964
